@@ -68,6 +68,7 @@ bloodbank/
 ├── config.php
 ├── index.php
 ├── register.php
+├── LICENSE  
 ├── logout.php
 ├── admin_dashboard.php
 ├── database.sql
@@ -139,14 +140,22 @@ http://localhost/bloodbank
 
 ## 📸 Screenshots
 
-Include screenshots of the following pages:
-
 * Home Page
+  <img width="1893" height="898" alt="image" src="https://github.com/user-attachments/assets/f275aace-b971-424b-90e0-362e1326faed" />
 * Registration Page
+  <img width="1811" height="898" alt="image" src="https://github.com/user-attachments/assets/20fdf338-d3d3-4054-a05e-12237411e5b6" />
+* Login Page
+  <img width="1890" height="900" alt="image" src="https://github.com/user-attachments/assets/dc6c599c-0563-4ba5-87e6-7717d1310cf2" />
 * Admin Dashboard
+  <img width="1893" height="902" alt="image" src="https://github.com/user-attachments/assets/71141708-9b4e-4f73-bd08-6c9cca18d593" />
 * Donor Dashboard
+  <img width="1891" height="902" alt="image" src="https://github.com/user-attachments/assets/6e86cb57-cbcb-4903-ac9c-8c22528b45e8" />
 * Patient Dashboard
+  <img width="1893" height="900" alt="image" src="https://github.com/user-attachments/assets/4ef5536a-2f56-496f-bfaf-5a99471317d8" />
 * Blood Request Page
+  <img width="1917" height="901" alt="image" src="https://github.com/user-attachments/assets/1e0db835-4b2c-4b87-9506-37cdbbbd117c" />
+  <img width="1888" height="895" alt="image" src="https://github.com/user-attachments/assets/14676fc8-b7a2-4f55-a31d-66b18912991a" />
+  <img width="1890" height="896" alt="image" src="https://github.com/user-attachments/assets/5a330f9a-437c-4c03-89ad-ae3b00ee8c20" />
 
 ---
 
@@ -160,5 +169,10 @@ Velammal College of Engineering and Technology
 
 ## 📄 License
 
-This project has been developed for academic and educational purposes.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+---
+
+## Support
+
+If you like this project, give it a ⭐ on GitHub.
